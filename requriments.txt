@@ -1,0 +1,8 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+requests
+google-generativeai
+spotipy
+opencv-python
+numpy
